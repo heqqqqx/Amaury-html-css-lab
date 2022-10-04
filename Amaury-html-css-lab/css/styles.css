@@ -1,13 +1,14 @@
-/*
-1.
+/* 1
 */
+
+
 
 *{
     margin: 0;
 }
 
 /*
-2.pas fini: image
+2.
 */
 body{
     color: #000000;
@@ -270,33 +271,3 @@ input[type=submit]:hover {
 
 
 
-
-/*
-personal addings
-*/
-
-header img{
-    width: 1300px;
-    height: 200px;
-}
-
-.img-centre {
-    border-width: 2px;
-    border-style: solid;
-    border-color: black;
-}
-
-.content audio, .content video{
-    border-width: 2px;
-    border-style: solid;
-    border-color: black;
-}
-
-
-footer p{
-    text-align: right;
-}
-
-.content p{
-    font-size: 20px;
-}
